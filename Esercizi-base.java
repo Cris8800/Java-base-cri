@@ -1,12 +1,5 @@
-/*public class Hello {
-     public static void main(String[] args) { 
 
-        System.out.println("ciao"+ valore);
-         int valore = 3;
-    }
-}*/
-
-//Esercizio 1
+//Esercizio Ego
 
 
 class HelloWorld {
@@ -19,4 +12,5 @@ class HelloWorld {
 
 
 
-//Esercizio 2 
+
+
